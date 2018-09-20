@@ -1,0 +1,3 @@
+20180915_134543 _checkInstall pass
+20180915_134603 confDataBase pass
+20180915_134658 login fail
